@@ -5,7 +5,7 @@
 extern "C" {
 #endif
 
-extern int enable_threads_monitoring();
+extern int switch_threads_monitoring();
 
 #ifdef __cplusplus
 }
