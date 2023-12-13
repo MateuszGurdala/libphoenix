@@ -5,7 +5,7 @@
 extern "C" {
 #endif
 
-extern int switch_threads_monitoring();
+extern int switch_threads_monitoring(unsigned id);
 
 #ifdef __cplusplus
 }
